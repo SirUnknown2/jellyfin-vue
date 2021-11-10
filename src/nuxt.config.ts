@@ -91,7 +91,6 @@ const config: NuxtConfig = {
     { src: 'plugins/components/swiper.ts', mode: 'client' },
     'plugins/components/vueVirtualScroller.ts',
     'plugins/components/veeValidate.ts',
-    { src: 'plugins/components/vueFullscreen.ts', mode: 'client' },
     'plugins/components/vueDraggable.ts',
     // Utility
     'plugins/browserDetectionPlugin.ts',
